@@ -13,6 +13,7 @@
 Описание чекпойнтов дано для ML-трека. Для DL и research-треков чекпойнты будут незначительно отличаться, но чекпойнт 4, промежуточная и итоговые защиты - одинаковые для всех треков.
 
 ## **Руководитель, куратор:** Мовсумов Денис
+## **Исполнитель:** Назаров Антон (@ShinogiKoushou)
 
 - **Тип задачи:** anomaly detection, крайне несбалансированная классификация
 - **Данные:** [Credit Card Fraud Detection — ULB (Kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), [IEEE-CIS Fraud Detection
